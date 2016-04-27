@@ -1,0 +1,8 @@
+1. Only cards that character used in anime/manga/scripted duel.
+2. Multiples of cards only if character used multiples
+3. Video games and V-Jump recipes of characters dont count.
+4. If the character has less than 40 cards ever revealed, then it is ok
+to have a <40 card deck.
+
+Many anime cards have yet to be added to the game so
+these decks may become stronger in future.
